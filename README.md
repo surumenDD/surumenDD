@@ -1,6 +1,6 @@
 ### ひとめぐり
 
-[![海辺で空を見上げる女の子と、お祭りの路地に立つ浴衣の女の子の絵の色が、それぞれ1日をめぐるループ](hitomeguri-800x500.webp)](https://surumendd.github.io/hitomeguri-color/)
+[![海辺で空を見上げる女の子の絵の色が、夕方から夜、朝、昼へと1日をめぐるループ](hitomeguri-800x500.webp)](https://surumendd.github.io/hitomeguri-color/)
 
 絵の色が、1日をひとめぐりする。
 1枚の絵の色を、朝から夜まで動かして見る Web の道具です。
